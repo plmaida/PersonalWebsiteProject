@@ -1,0 +1,28 @@
+
+  body {
+    background-color: #e8eae6;
+  }
+  hr {
+    border-color: #cfdac8;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 3px;
+    height: 10px;
+    width: 75%;
+  }
+  h1 {
+    color: #7c9473;
+  }
+  h3 {
+    color: #7c9473;
+  }
+  /**********Class selector*********/
+  .taught:hover {
+    background-color: #cdd0cb;
+    border-radius: 100%;
+  }
+
+  /**********ID selector*********/
+  #introbreak {
+    border-width: 5px;
+  }
